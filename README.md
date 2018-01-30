@@ -4,6 +4,6 @@ There is an option in the software where one can see how much time it takes for 
 
 User can also take a quiz to test their knowledge about the various planets in our solar system. There is no negative marking but a one mark is awarded for every correct answer. Results are displayed at the end of the quiz.
 
-Software is follows the object oriented programming and hence is quite extensible for future. One can add more properties to the planet’s easily, can create more questions and answer. This software is not only educative but also quite fun!!!.
+One can add more properties to the planet’s easily, can create more questions and answer. This software is not only educative but also quite fun!!!.
 
 This project runs on Turbo C++ (which is now obselete) but still followed by many CBSE schools and colleges in India.  Students can copy this project, make changes in it and put it for grading to make PC-XT, PC-AT dinosaurs teachers happy!

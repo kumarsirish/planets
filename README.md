@@ -8,7 +8,7 @@ User can also take a quiz to test their knowledge about the various planets in o
 
 One can add more properties to the planet’s easily, can create more questions and answer. This software is not only educative but also quite fun!!!.
 
-This project runs on Turbo C++ (which is now obselete) but still followed by many CBSE schools and colleges in India.  Students can copy this project, make changes in it and put it for grading to make PC-XT, PC-AT dinosaurs teachers happy!
+This project runs on Turbo C++ (which is now obselete) but still followed by many for learning C++.  
 
 # Installation and Execution Instructions
  
